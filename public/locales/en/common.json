@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "clients": "Clients",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "GTS Tech Consultant",
+    "tagline": "Empowering Innovation Through Technology",
+    "cta": "Learn More"
+  },
+  "sections": {
+    "projects": "Featured Projects",
+    "clients": "Clients & Partners",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "contact": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "businessHours": "Business hours (Asia/Jakarta):"
+  }
+}
+

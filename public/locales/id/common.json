@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "projects": "Proyek",
+    "clients": "Klien",
+    "about": "Tentang",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "GTS Tech Consultant",
+    "tagline": "Mendorong Inovasi Melalui Teknologi",
+    "cta": "Pelajari Lebih Lanjut"
+  },
+  "sections": {
+    "projects": "Proyek Unggulan",
+    "clients": "Klien & Mitra",
+    "about": "Tentang Kami",
+    "contact": "Kontak"
+  },
+  "contact": {
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim",
+    "businessHours": "Jam operasional (Asia/Jakarta):"
+  }
+}
+
