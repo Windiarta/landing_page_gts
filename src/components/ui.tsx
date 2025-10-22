@@ -18,7 +18,7 @@ export function Card({ children, className = "" }: { children: React.ReactNode; 
 export function Button({ className = "", ...props }: ComponentProps<"button">) {
   return (
     <button
-      className={`inline-flex items-center justify-center rounded-2xl px-5 py-2 font-medium transition-colors bg-primaryBlue text-white hover:bg-blue-700 ${className}`}
+      className={`inline-flex items-center justify-center rounded-2xl px-5 py-2 font-medium transition-colors hover:bg-blue-500 hover:text-white ${className}`}
       {...props}
     />
   );
